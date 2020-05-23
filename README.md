@@ -10,4 +10,3 @@
 - Controle de Acesso
 - Transações (ACID)
 - Stored Procedures e Triggers
-:tw-1f4bb:
