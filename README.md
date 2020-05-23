@@ -1,4 +1,3 @@
-# Curso SQL MySql
 ## Curso de SQL pela SoftBlue no MySql
 #### Os tópicos abordados durante o curso foram:
 - Introdução a Banco de Dados
