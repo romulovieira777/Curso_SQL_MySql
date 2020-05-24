@@ -1,9 +1,9 @@
-/* Eescolhendi o Banco de Dados */
+/* Escolhendo o Banco de Dados */
 USE curso_sql_softblue;
 
 /* Criando uma Tabela no Banco de Dados */
 CREATE TABLE pilotos (
-	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
     nome VARCHAR(50) NOT NULL,
     equipe CHAR(1) NOT NULL,
     pontos INT NOT NULL,
@@ -12,26 +12,26 @@ CREATE TABLE pilotos (
 
 /* Inserindo Dados em Uma Tabela no Banco de Dados */
 INSERT INTO pilotos (
-	id,
+    id,
     nome,
     equipe,
     pontos
 ) 
 VALUES (
-	1,
+    1,
     'Fernando',
     'A',
     2
 );
 
 INSERT INTO pilotos (
-	id,
+    id,
     nome,
     equipe,
     pontos
 ) 
 VALUES (
-	2,
+    2,
     'Paulo',
     'B',
     5
@@ -44,33 +44,33 @@ INSERT INTO pilotos (
     pontos
 )
 VALUES (
-	3,
+    3,
     'Richa',
     'A',
     3
 );
 
 INSERT INTO pilotos (
-	id,
+    id,
     nome,
     equipe,
     pontos
 ) 
 VALUES (
-	4,
+    4,
     'Gomes',
     'C',
     6
 );
 
 INSERT INTO pilotos (
-	id,
+    id,
     nome,
     equipe,
     pontos
 ) 
 VALUES (
-	5,
+    5,
     'Fred',
     'B',
     7
