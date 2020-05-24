@@ -1,4 +1,4 @@
-/* Eescolhendi o Banco de Dados */
+/* Escolhendo o Banco de Dados */
 USE curso_sql_softblue;
 
 /* Selecionando Dados de uma Tabela Utilizando o Count - Where - And */
