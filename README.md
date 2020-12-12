@@ -9,3 +9,6 @@
 - Controle de Acesso
 - Transações (ACID)
 - Stored Procedures e Triggers
+
+Link para o curso 100% Gratuito.
+[SoftBlue](https://www.softblue.com.br/)
